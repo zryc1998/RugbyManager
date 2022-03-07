@@ -1,0 +1,16 @@
+Broncos; Suncorp Stadium; Kevin Walters; Founded 1988; Brisbane
+Raiders; GIO Stadium; Ricky Stuart; Founded 1981; Canberra
+Bulldogs; Bankwest Stadium; Trent Barrett; Founded 1934; Canterbury-Bankstown
+Sharks; Netstrata Jubilee Stadium; Josh Hannay; Founded 1967; Cronulla-Sutherland
+Titans; Cbus Super Stadium; Justin Holbrook; Founded 2007; Gold Coast
+Sea Eagles; Lottoland; Des Hasler; Founded 1947; Manly Warringah
+Storm; AAMI Park; John Ribot, Craig Bellamy; Founded 1997; Melbourne
+Warriors; Mount Smart Stadium; Nathan Brown; Founded 1995; Auckland
+Knights; McDonald Jones Stadium; Adam O'Brien; Founded 1988; Newcastle
+Cowboys; Queensland Country Bank Stadium; Todd Payten; Founded 1995; North Queensland
+Eels; Bankwest Stadium; Brad Arthur; Founded 1947; Parramatta
+Panthers; Panthers Stadium; Ivan Cleary; Founded 1967; Penrith
+Rabbitohs; ANZ Stadium; Wayne Bennett; Founded 1908; Sydney
+St. George Illawarra Dragons; Anthony Griffin; WIN Stadium; Founded 1998; South Sydney
+Roosters; Sydney Cricket Ground; Trent Robinson; Founded 1908; Sydney
+Wests Tigers; Campbelltown Stadium; Michael Maguire; Founded 1999; Sydney

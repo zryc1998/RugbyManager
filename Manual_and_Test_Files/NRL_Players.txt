@@ -1,0 +1,22 @@
+1; Richard; McCaw; 31/12/1980; 187; 107; Oamaru, New Zealand
+2; Sean; Fitzpatrick; 4/6/1963; 183; 105; Auckland, New Zealand
+3; Kieran; Read; 26/10/1985; 193; 111; Papakura, New Zealand
+4; Tom; Cross; 28/05/1972; 160; 122; Northland
+5; Charles; Dunning; 5/05/1970; 189; 91; Thames Valley
+6; Daniel; Fraser; 12/03/1986; 168; 121; Waikato
+7; Daniel; Gilchrist; 5/11/1985; 193; 91; Bay of Plenty
+8; Jim; Gleeson; 4/06/1970; 161; 105; Tongariro
+9; William; Johnston; 29/12/1993; 199; 100; East Cape
+10; Arthur; Kelly; 20/04/1999; 182; 81; Hawkes Bay
+11; Joseph; Lavery; 14/06/1989; 163; 106; Taranaki
+12; Adam; Lile; 9/02/1983; 184; 127; Wanganui
+13; Duncan; McGregor; 20/02/1997; 194; 80; Wairarapa
+14; Bill; Mackrell; 5/07/1999; 198; 74; Manawatu
+15; Dally; Messenger; 2/07/2000; 189; 130; Horowhenua
+16; Charles; Pearce; 22/01/2000; 198; 110; Nelson Bays
+17; Harold; Rowe; 27/06/1978; 169; 94; Marlborough
+18; George; Smith; 28/07/1993; 166; 142; Canterbury
+19; Lance; Todd; 19/10/1980; 164; 104; West Coast
+20; Bill; Trevarthen; 18/02/1981; 167; 104; Aorangi
+21; Herbert; Turtill; 20/02/1982; 179; 107; Coastal, North Otago
+22; Bill; Tyler; 11/12/1995; 196; 133; Clutha, Central Otago

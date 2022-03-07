@@ -1,0 +1,48 @@
+Broncos; Suncorp Stadium; Kevin Walters; 1988; Brisbane
+--------------------------------------
+
+Raiders; GIO Stadium; Ricky Stuart; 1981; Canberra
+--------------------------------------
+
+Bulldogs; Bankwest Stadium; Trent Barrett; 1934; Canterbury-Bankstown
+--------------------------------------
+
+Sharks; Netstrata Jubilee Stadium; Josh Hannay; 1967; Cronulla-Sutherland
+--------------------------------------
+
+Titans; Cbus Super Stadium; Justin Holbrook; 2007; Gold Coast
+--------------------------------------
+
+Sea Eagles; Lottoland; Des Hasler; 1947; Manly Warringah
+--------------------------------------
+
+Storm; AAMI Park; John Ribot, Craig Bellamy; 1997; Melbourne
+--------------------------------------
+
+Warriors; Mount Smart Stadium; Nathan Brown; 1995; Auckland
+--------------------------------------
+
+Knights; McDonald Jones Stadium; Adam O'Brien; 1988; Newcastle
+--------------------------------------
+
+Cowboys; Queensland Country Bank Stadium; Todd Payten; 1995; North Queensland
+--------------------------------------
+
+Eels; Bankwest Stadium; Brad Arthur; 1947; Parramatta
+--------------------------------------
+
+Panthers; Panthers Stadium; Ivan Cleary; 1967; Penrith
+--------------------------------------
+
+Rabbitohs; ANZ Stadium; Wayne Bennett; 1908; Sydney
+--------------------------------------
+
+St. George Illawarra Dragons; Anthony Griffin; WIN Stadium; 1998; South Sydney
+--------------------------------------
+
+Roosters; Sydney Cricket Ground; Trent Robinson; 1908; Sydney
+--------------------------------------
+
+Wests Tigers; Campbelltown Stadium; Michael Maguire; 1999; Sydney
+--------------------------------------
+

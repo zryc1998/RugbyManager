@@ -1,0 +1,23 @@
+1; Richard; McCaw; 31/12/1980; 187; 107; Oamaru, New Zealand; Storm
+2; Sean; Fitzpatrick; 04/06/1963; 183; 105; Auckland, New Zealand; Raiders
+3; Kieran; Read; 26/10/1985; 193; 111; Papakura, New Zealand; Broncos
+4; Tom; Cross; 28/05/1972; 160; 122; Northland; Broncos
+5; Charles; Dunning; 05/05/1970; 189; 91; Thames Valley; Bulldogs
+6; Daniel; Fraser; 12/03/1986; 168; 121; Waikato; Cowboys
+7; Daniel; Gilchrist; 05/11/1985; 193; 91; Bay of Plenty; Cowboys
+8; Jim; Gleeson; 04/06/1970; 161; 105; Tongariro; Cowboys
+9; William; Johnston; 29/12/1993; 199; 100; East Cape; Bulldogs
+10; Arthur; Kelly; 20/04/1999; 182; 81; Hawkes Bay; Bulldogs
+11; Joseph; Lavery; 14/06/1989; 163; 106; Taranaki; Raiders
+12; Adam; Lile; 09/02/1983; 184; 127; Wanganui; Raiders
+13; Duncan; McGregor; 20/02/1997; 194; 80; Wairarapa; Raiders
+14; Bill; Mackrell; 05/07/1999; 198; 74; Manawatu; Raiders
+15; Dally; Messenger; 02/07/2000; 189; 130; Horowhenua; Sharks
+16; Charles; Pearce; 22/01/2000; 198; 110; Nelson Bays; Storm
+17; Harold; Rowe; 27/06/1978; 169; 94; Marlborough; Knights
+18; George; Smith; 28/07/1993; 166; 142; Canterbury; Sea Eagles
+19; Lance; Todd; 19/10/1980; 164; 104; West Coast; Broncos
+20; Bill; Trevarthen; 18/02/1981; 167; 104; Aorangi; Sea Eagles
+21; Herbert; Turtill; 20/02/1982; 179; 107; Coastal, North Otago; Storm
+22; Bill; Tyler; 11/12/1995; 196; 133; Clutha, Central Otago; Sharks
+23; Chao; Yue; 12/12/1980; 168; 123; Beijing, China; Warriors

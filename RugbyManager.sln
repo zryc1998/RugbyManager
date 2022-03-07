@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RugbyManager", "RugbyManager.csproj", "{846C81BA-9ABF-492F-91EE-0CA4A006D21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "..\RugbyManager\ClassLibrary\ClassLibrary.csproj", "{917BAADD-70D6-41B1-B48C-8DCA9C9E2158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{846C81BA-9ABF-492F-91EE-0CA4A006D21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{846C81BA-9ABF-492F-91EE-0CA4A006D21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{846C81BA-9ABF-492F-91EE-0CA4A006D21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{846C81BA-9ABF-492F-91EE-0CA4A006D21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{917BAADD-70D6-41B1-B48C-8DCA9C9E2158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917BAADD-70D6-41B1-B48C-8DCA9C9E2158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917BAADD-70D6-41B1-B48C-8DCA9C9E2158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917BAADD-70D6-41B1-B48C-8DCA9C9E2158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C28B710E-77F1-4E5E-A53D-3D4B8FB4F0E9}
+	EndGlobalSection
+EndGlobal
